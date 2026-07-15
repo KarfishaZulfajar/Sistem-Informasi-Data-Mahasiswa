@@ -21,7 +21,7 @@ CARA MENJALANKAN DI XAMPP
 4. Pilih menu Import, lalu impor:
    database/db_mahasiswa.sql
 5. Buka aplikasi:
-   http://localhost/sim-mahasiswa-uas/
+   http://localhost/SIM-MAHASISWA-UAS/index.php
 
 AKUN LOGIN AWAL
 Username : admin
