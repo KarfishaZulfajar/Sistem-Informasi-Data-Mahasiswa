@@ -39,3 +39,4 @@ CATATAN
 - File SQL akan membuat database dan tabel sesuai rancangan awal.
 - Data mahasiswa tidak diisi dummy; tambahkan melalui menu Tambah Mahasiswa.
 - Jika MySQL root menggunakan password, ubah DB_PASS pada config/koneksi.php.
+thanks
